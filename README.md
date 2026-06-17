@@ -233,6 +233,6 @@ Trigger the `Sales_Lakehouse_Daily_Pipeline` job manually or let the schedule ru
 
 ## Author
 
-**Bruno Oliveira**
-Category Insights Executive | Data Engineer
-[Dashboard Labs](https://dashboardlabs.ca)
+**Bruno Silva**
+Commercial Analytics | Category Insights | Analytics Engineer
+[Peortfolio]([https://dashboardlabs.ca](https://ruddy-lunaria-631.notion.site/Bruno-Silva-Portfolio-1352e1be9c8a4e21af7bb1997f749b91))
