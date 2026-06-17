@@ -235,4 +235,4 @@ Trigger the `Sales_Lakehouse_Daily_Pipeline` job manually or let the schedule ru
 
 **Bruno Silva**
 Commercial Analytics | Category Insights | Analytics Engineer
-[Peortfolio]([https://dashboardlabs.ca](https://ruddy-lunaria-631.notion.site/Bruno-Silva-Portfolio-1352e1be9c8a4e21af7bb1997f749b91))
+[Portfolio]([https://ruddy-lunaria-631.notion.site/Bruno-Silva-Portfolio-1352e1be9c8a4e21af7bb1997f749b91])
